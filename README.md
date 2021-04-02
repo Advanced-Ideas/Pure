@@ -1,2 +1,3 @@
 # Pure
-A very fast and powerfull functionnal language
+A very fast and powerfull functional language.
+Coming soon...
